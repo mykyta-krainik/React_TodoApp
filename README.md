@@ -13,4 +13,4 @@
     - Filter todos by status (all, active, completed)
     - Delete the todo (removing also happens if you keep a new todo title empty during the editing)
     - Delete all completed todos pressing the "Clear completed" button on the bottom right
-  - [**Preview**](https://mykyta-krainik.github.io/ReactTodoApp/)
+  - [**Preview**](https://mykyta-krainik.github.io/React_TodoApp/)
